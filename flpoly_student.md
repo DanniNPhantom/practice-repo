@@ -21,11 +21,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 - Watching Movies 
 
 ***
-hear's a local image:
+here's a local image:
 
-![](baby yoda.jpg)
+![](baby yoda.jpeg)
 
-# A tablePWD
+# A table
 
 | Favorite Game | System |
 |:--------------|-------:|
