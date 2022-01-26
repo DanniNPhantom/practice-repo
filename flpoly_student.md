@@ -30,7 +30,8 @@ here's a local image:
 | Favorite Game | System |
 |:--------------|-------:|
 | Fall out      | PS4    |
-
+| Syrims        | PS4    |
+| Days gone     | PS4    |
 
   
   > Last modified: 2022/01/24
