@@ -1,27 +1,36 @@
-## First Name Last Name
+## Danielle "Danni"" Williams
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
-
-- Course 1
-
-- Course 2
-
-- Course 3
-
-- Course 4
+  
+  - Data Analytic Capstone 2
+- International & Comparative Dimensions of Business
+- Introduction to Data Science
+- Reverse Logistics
+- Strategic Management
 
 **Hobbies:**
-
-I am _passionate about_: 
-
-- Thing 1
-
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+  
+  I am _passionate about_: 
+  
+  - Playing Video Games
+- working out
+- Going to the beach
+- reading
+- Watching Movies 
 
 ***
+hear's a local image:
 
-> Last modified: YYYY/MM/DD
+![](baby yoda.jpg)
+
+# A tablePWD
+
+| Favorite Game | System |
+|:--------------|-------:|
+| Fall out      | PS4    |
+
+
+  
+  > Last modified: 2022/01/24
