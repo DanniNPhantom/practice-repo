@@ -21,9 +21,9 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 - Watching Movies 
 
 ***
-here's a local image:
+**here's a local image**
 
-![](baby yoda.jpeg)
+![When Yoda is Boss](baby yoda.jpeg)
 
 # A table
 
@@ -34,4 +34,4 @@ here's a local image:
 | Days gone     | PS4    |
 
   
-  > Last modified: 2022/01/24
+  > Last modified: 2022/01/26
