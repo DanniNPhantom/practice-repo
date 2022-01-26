@@ -29,7 +29,6 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 | Favorite Game | System |
 |:--------------|-------:|
-
 | Fall out      | PS4    |
 | Syrims        | PS4    |
 | Days gone     | PS4    |
